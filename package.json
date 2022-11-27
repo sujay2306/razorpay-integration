@@ -1,0 +1,25 @@
+{
+  "name": "razorpay-integration",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sujay2306/razorpay-integration.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sujay2306/razorpay-integration/issues"
+  },
+  "homepage": "https://github.com/sujay2306/razorpay-integration#readme",
+  "dependencies": {
+    "express": "^4.18.2",
+    "nodemon": "^2.0.20",
+    "razorpay": "^2.8.4"
+  }
+}
